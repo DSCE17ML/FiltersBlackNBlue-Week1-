@@ -1,0 +1,15 @@
+c:\users\ashish\documents\visual studio 2017\Projects\App1BlackNBlue\App1BlackNBlue\bin\Debug\App1BlackNBlue.exe.config
+c:\users\ashish\documents\visual studio 2017\Projects\App1BlackNBlue\App1BlackNBlue\bin\Debug\App1BlackNBlue.exe
+c:\users\ashish\documents\visual studio 2017\Projects\App1BlackNBlue\App1BlackNBlue\bin\Debug\App1BlackNBlue.pdb
+c:\users\ashish\documents\visual studio 2017\Projects\App1BlackNBlue\App1BlackNBlue\obj\Debug\App1BlackNBlue.csprojResolveAssemblyReference.cache
+c:\users\ashish\documents\visual studio 2017\Projects\App1BlackNBlue\App1BlackNBlue\obj\Debug\App1BlackNBlue.Form1.resources
+c:\users\ashish\documents\visual studio 2017\Projects\App1BlackNBlue\App1BlackNBlue\obj\Debug\App1BlackNBlue.Properties.Resources.resources
+c:\users\ashish\documents\visual studio 2017\Projects\App1BlackNBlue\App1BlackNBlue\obj\Debug\App1BlackNBlue.csproj.GenerateResource.Cache
+c:\users\ashish\documents\visual studio 2017\Projects\App1BlackNBlue\App1BlackNBlue\obj\Debug\App1BlackNBlue.exe
+c:\users\ashish\documents\visual studio 2017\Projects\App1BlackNBlue\App1BlackNBlue\obj\Debug\App1BlackNBlue.pdb
+C:\Users\Ashish\documents\visual studio 2017\Projects\App1BlackNBlue\App1BlackNBlue\bin\Debug\AForge.Imaging.dll
+C:\Users\Ashish\documents\visual studio 2017\Projects\App1BlackNBlue\App1BlackNBlue\bin\Debug\AForge.dll
+C:\Users\Ashish\documents\visual studio 2017\Projects\App1BlackNBlue\App1BlackNBlue\bin\Debug\AForge.Math.dll
+C:\Users\Ashish\documents\visual studio 2017\Projects\App1BlackNBlue\App1BlackNBlue\bin\Debug\AForge.Imaging.xml
+C:\Users\Ashish\documents\visual studio 2017\Projects\App1BlackNBlue\App1BlackNBlue\bin\Debug\AForge.xml
+C:\Users\Ashish\documents\visual studio 2017\Projects\App1BlackNBlue\App1BlackNBlue\bin\Debug\AForge.Math.xml
